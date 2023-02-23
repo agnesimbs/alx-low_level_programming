@@ -1,1 +1,1 @@
-The repository containing c projects
+Debugging tasks
