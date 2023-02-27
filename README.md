@@ -1,1 +1,1 @@
-Debugging tasks
+pointers and arrays C project
